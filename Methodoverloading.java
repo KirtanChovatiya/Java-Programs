@@ -1,4 +1,4 @@
-class Hello
+class Hello        // Inheritance not required
 {
 	void passenger()
 	{
